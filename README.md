@@ -55,4 +55,4 @@ Projekt został wykonany przy użyciu:
 
 1. Pobierz repozytorium:
 ```bash
-git clone https://github.com/nazwa-uzytkownika/nazwa-repo.git
+git clone https://github.com/CrazyBackKF/Wykres-funkcji-kwadratowej.git
